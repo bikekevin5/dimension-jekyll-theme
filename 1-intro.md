@@ -1,5 +1,5 @@
 ---
-title: intro-one
+title: intro
 image: pic01.jpg
 ---
 You're a passionate creative with a mind for adventure and innovation, but your lack of technical expertise is keeping you from being independent. No worries, I got your back.
