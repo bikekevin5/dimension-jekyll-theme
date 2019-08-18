@@ -2,4 +2,8 @@
 title: intro
 image: pic01.jpg
 ---
-Ok wow that was crazy all I needed to do was to make sure the gh-pages was set up properly. I don't even need to have a local deployment on my own machine (as if I even knew how to use it) but now I need to see if I can get a contact form working and see how that goes!
+You're a passionate creative with a mind for adventure and innovation, but your lack of technical expertise is keeping you from being independent. No worries, I got your back.
+
+With a background in design and a belief that art is a science, I can help you get to where you want to be while you only worry about what you need to.
+
+Take a look at my personal landing page where you can see some of my work, and let's see if we can build something great together. 
