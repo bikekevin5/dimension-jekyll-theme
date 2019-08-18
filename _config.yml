@@ -1,16 +1,16 @@
 # Site settings
-title: Dimension
-email: youremailaddress@gmail.com
+title: Kevin Lim
+email: bikekevin5@gmail.com
 description: A fully responsive site template designed by <a href="https://html5up.net">HTML5 UP</a> and released<br />for free under the <a href="https://html5up.net/license">Creative Commons</a> license.
 baseurl: "/dimension-jekyll-theme" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
-author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
+author: Kevin Lim
+street_address:
+city: San Francisco
+state: CA
+zip_code:
 country: United States of America
-phone: (716) 555-5555
+phone:
 
 icon: fa-diamond # Font Awesome class for your site's icon
 
