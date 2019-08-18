@@ -18,6 +18,7 @@ Andrew blah blah for the jekyll theme
 gapa theatre
 bindlestiff Studio
 
+Design: <a href="https://html5up.net">HTML5 UP</a>. Jekyll integration: <a href="https://andrewbanchi.ch">Andrew Banchich</a>.
 
 BE SURE TO HAVE A CREDITS PAGE
 A fully responsive site template designed by <a href="https://html5up.net">HTML5 UP</a> and released<br />for free under the <a href="https://html5up.net/license">Creative Commons</a> license.
