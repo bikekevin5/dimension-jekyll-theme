@@ -10,6 +10,10 @@ Currently recruiting for the Behave Boys webseries!
 
 Projects: Maybe find another theme to finish the LNY website, and once you have that you can come back and develop this landing page to include that. Also think about what kind of work you want to do. Including - marketing? web design? what can you offer potential clients? what is your technical expertise? what is the value you are offering? maybe think about reading more into chris do as well as a recommendation that your buddy mike gave you
 
+also think about the plant databases you were working on! outsource the coding part, dont' work so hard find teh right tools and just put them into place.
+
+APPLY THE TECHNOLOGY TO THE HUMAN USECASE! YOU MUST BE MORE THAN JUST A TECHNOLOGIST TO MAKE A CAREER IN TECHNOLOGY> TECHNOLOGY IS LIEK WRITING< YOU"RE NOT A WRITER FIRST YOU MUST BE SOMETHING ELSE FIRS TAND THEN USE YOUR SKILLS TO YOUR ADVANTAGES
+
 
 
 
