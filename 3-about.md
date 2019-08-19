@@ -25,3 +25,5 @@ A fully responsive site template designed by <a href="https://html5up.net">HTML5
 
 Photo by Gerson Repreza on Unsplash
 Photo by Yousef Espanioly on Unsplash
+Photo by Kody Dahl on Unsplash
+Photo by Xiaolong Wong on Unsplash
