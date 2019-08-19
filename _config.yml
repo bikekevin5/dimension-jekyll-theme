@@ -1,7 +1,7 @@
 # Site settings
 title: Kevin Lim
 email: bikekevin5@gmail.com
-description: Adventure Innovation Independence
+description: Adventure, Innovation, Independence
 baseurl: "/dimension-jekyll-theme" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author: Kevin Lim
