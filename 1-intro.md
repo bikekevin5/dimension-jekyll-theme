@@ -1,6 +1,6 @@
 ---
 title: intro
-image: gerson-repreza-OEgqqH1pnaQ-unsplash.jpg
+image: pic01.jpg
 ---
 You're a passionate creative with a mind for adventure and innovation, technical expertise is keeping you from being independent. I got your back.
 
